@@ -1,0 +1,44 @@
+.deposit-body{
+    display:flex;
+    flex-direction: column;
+    border:solid 1px white;
+    margin-top: 10px auto;
+    width:350px;
+    height:100px;
+    margin-left: 70px;
+}
+.deposit-body label{
+    margin-top: 10px;
+    width:130px;
+    padding-right:5px;
+}
+.deposit-body input{
+    align-self: center;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    border:solid 1px white;
+    margin-top: 10px;
+}
+
+.deposit-body button{
+    margin-top: 30px;
+    align-self: center;
+    border-radius: 5px;
+    background-color: white;
+    color:black;
+    border-color: transparent;
+    width: 75px;
+    cursor: pointer;
+}
+.deposit-body button:hover {
+    background-color:#00B5EF;
+    color:white;
+    border-color:white;
+}
+
+p.error-message {
+    color: red;
+    font-size: 6px;
+    margin: 0px;
+}

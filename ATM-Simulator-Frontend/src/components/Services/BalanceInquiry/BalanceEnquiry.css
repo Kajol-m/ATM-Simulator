@@ -1,0 +1,43 @@
+/* BalanceEnquiry.css */
+.balance-enquiry {
+    padding: 20px;
+}
+
+.transaction-history table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.transaction-history th, .transaction-history td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+/* Withdraw.css */
+.withdraw {
+    padding: 20px;
+}
+
+.withdraw input {
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.withdraw button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}

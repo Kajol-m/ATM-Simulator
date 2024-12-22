@@ -28,5 +28,5 @@ ATM Simulator is a web application that simulates basic ATM functionalities such
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kajol-m/ATM-Simulator.git
    cd ATM-Simulator/ATM-Simulator-Backend

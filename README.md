@@ -16,8 +16,8 @@ ATM Simulator is a web application that simulates basic ATM functionalities such
 - **Database:** MySQL
 
 ## Installation
-- Insatll Spring-boot 3.3.3
-- React 18.3.1
+- Install **Spring-boot 3.3.3**
+- **React 18.3.1**
 
 ### Prerequisites
 
